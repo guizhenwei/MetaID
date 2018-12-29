@@ -1,0 +1,13 @@
+{
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "a chrome extension for bitcoin sv wallet.",
+  "name": "MetaID",
+  "omnibox": { "keyword" : "metanet" },
+  "permissions": [ "http://www.google.com/" , "https://cs.chromium.org/"],
+  "version": "6.1",
+  "minimum_chrome_version": "9",
+
+  "manifest_version": 2
+}
