@@ -2,7 +2,7 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "description": "a chrome extension for bitcoin sv wallet.",
+  "description": "An entrance for the MetaNet ; a bitcoin sv wallet for chrome.",
   "name": "MetaID",
   "omnibox": { "keyword" : "metanet" },
   "permissions": [ "http://www.google.com/" , "https://cs.chromium.org/"],
