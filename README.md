@@ -18,6 +18,6 @@
 - [ ] a market for trading game item 
 
 
-## Donatioin
+## Donation
 
 bsv:1Q3VGHisSoqgR27dFwuwLh1o62fWeaGsbZ
